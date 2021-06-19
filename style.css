@@ -1,0 +1,91 @@
+ body {
+     text-align: center;
+     background: linear-gradient(110deg, red, orange, yellow, green, blue, indigo, violet);
+ }
+
+ .header {
+     font-family: 'Mate SC', serif;
+     font-weight: 400;
+     font-size: 50px;
+ }
+
+ .line {
+     background-color: black;
+     width: 80px;
+     height: 5px;
+     margin: 8px auto;
+ }
+
+ #startimg {
+     width: 400px;
+     height: 300px;
+ }
+
+ .thought {
+     color: white;
+     font-family: 'Yellowtail', cursive;
+     font-size: 30px;
+ }
+
+ #namep {
+     font-family: 'Mate SC', serif;
+     font-weight: bold;
+     text-align: right;
+ }
+
+ img {
+     width: 150px;
+     height: 150px;
+ }
+
+ .sub-header {
+     font-family: 'Mate SC', serif;
+     font-weight: 400;
+ }
+
+ #myCarousel {
+     background-color: red;
+ }
+
+ .grid {
+     display: inline;
+ }
+
+ #myCarousel img {
+     height: 300px;
+     margin-top: 35px;
+ }
+
+ .carousel-inner p {
+     margin-top: 25px;
+     margin-bottom: 15px;
+     color: white;
+     font-size 25px;
+ }
+
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #333;
+ }
+
+ li {
+     float: left;
+     font-size: 20px;
+ }
+
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+ }
+
+ li a:hover {
+     background-color: #111;
+     color: white;
+     font-size: 25px;
+ }
